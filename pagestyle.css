@@ -1,0 +1,24 @@
+	p{
+		text-indent: 25px;
+		text-align: justify;
+		font-family: Arial;
+		font-size: 20px;
+	}
+	img{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		height: auto;
+		width: 250px;
+	}
+	body{background-image: url('mainbackground.jpg');}
+	h4{
+		font: Arial;
+		font-size: 20px;
+	}
+	ul{list-style-type: square;}
+	li{font-size: 20px;}
+	a:link{color:blue;}
+	a:visited{color:green;}
+	a:hover{color:hotpink;text-decoration:underline;}
+	a:active{color:red;text-decoration:underline;}
